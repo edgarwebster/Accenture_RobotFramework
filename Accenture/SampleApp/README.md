@@ -16,4 +16,4 @@ How to run this script first:
 
 Then execute the script, enter the following command line inside Accenture folder:
 
-robot --test "SampleApp"    <Path of the SampleApp folder>
+robot --test "SampleApp"    <<Path of the Accenture folder>>
